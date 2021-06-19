@@ -1,4 +1,4 @@
-const states = [
+export const states = [
   {
     id: 1,
     name: "Abia",
